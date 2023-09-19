@@ -1,7 +1,7 @@
 <img width="819" alt="image" src="https://github.com/stakehouse-dev/zec-alpha/assets/102478146/60251d2e-2237-488c-8dab-4c85f1178e7b">
 
 # What is ZEC?
-Zero ETH Club (ZEC) is a permissioned pool of node operators allowing them to run a validator without any ETH stake (i.e Zero ETH). In return for costs incurred running a node, they earn 10% of the network revenue received by the validator (ETH execution layer earnings). Node operators need to pay a social recovery bond (approx. USD100 in ETH per BLS key) as security for key recovery (CIP) in the event they do not run the node and it sustains leakage.
+Zero ETH Club (ZEC) is a curated list of node operators allowing them to run a validator without any ETH stake (i.e Zero ETH). In return for costs incurred running a node, they earn 10% of the network revenue received by the validator (ETH execution layer earnings). Node operators need to pay a social recovery bond (approx. USD100 in ETH per BLS key) as security for key recovery (CIP) in the event they do not run the node and it sustains leakage.
 
 # Who can join ZEC?
 In the ZEC, there is a maximum ceiling on the amount of ETH that can be staked through ZEC node operators. This limit can be adjusted periodically based on decisions made by a DAO or a committee that is elected through a community-driven process. Additionally, ZEC maintains a voluntary inclusion list for allowed LSD networks, facilitating ZEC node operators to join them.
